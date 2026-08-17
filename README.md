@@ -9,7 +9,7 @@ That's what I love about software.<br/>
 The things we can create are limited less by what's possible and more by what we can imagine.<br/>
 As a Computer Science student and developer, I'm learning how to turn those ideas into real systems, from a simple program running on my machine to applications backed by APIs, databases, cloud infrastructure, and distributed services.<br/><br/>
 I don't see programming as simply learning languages or frameworks.<br/>
-It's learning how to think.<br/>
+It's learning how to think!<br/>
 
 #### When I code, I rely on:
 ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
