@@ -1,9 +1,9 @@
 # Hey, I'm Uyanda 👋
 ### Computer Science Student • Developer • Builder
 
-> Computer science is a superpower.
-> Give me an idea, and I can build it.
-> Give me a problem, and I'll figure out how to solve it.
+> Computer science is a superpower.<br/>
+> Give me an idea, and I can build it.<br/>
+> Give me a problem, and I'll figure out how to solve it.<br/>
 
 That's what I love about software.
 The things we can create are limited less by what's possible and more by what we can imagine.
