@@ -1,5 +1,6 @@
 # Hey, I'm Uyanda 👋
-Computer Science Student • Developer • Builder
+### Computer Science Student • Developer • Builder
+
 Computer science is a superpower.
 Give me an idea, and I can build it.
 Give me a problem, and I'll figure out how to solve it.
