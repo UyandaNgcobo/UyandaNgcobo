@@ -1,3 +1,14 @@
+# Hey, I'm Uyanda 👋
+Computer Science Student • Developer • Builder
+Computer science is a superpower.
+Give me an idea, and I can build it.
+Give me a problem, and I'll figure out how to solve it.
+That's what I love about software.
+The things we can create are limited less by what's possible and more by what we can imagine.
+As a Computer Science student and developer, I'm learning how to turn those ideas into real systems — from a simple program running on my machine to applications backed by APIs, databases, cloud infrastructure, and distributed services.
+I don't see programming as simply learning languages or frameworks.
+It's learning how to think.
+
 #### When I code, I rely on:
 ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
